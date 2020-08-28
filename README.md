@@ -3,6 +3,8 @@
 <!--
 **Olanetsoft/Olanetsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I'm a Software developer passionate about writting code that solves humman problem and i also contribute to open source.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
