@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a Software developer passionate about writting code that solves humman problem. Aside writting codes, i write articles [Here](https://idrisolubisi.com/blog "My Blog") and also contribute to open source.
 
