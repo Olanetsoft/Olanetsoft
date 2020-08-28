@@ -17,8 +17,7 @@ I'm a Software developer passionate about writting code that solves humman probl
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/code-html?style=flat&logo=linux&logoColor=white&color=tokyonight)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=tokyonight)
+![](https://img.shields.io/badge/OS-Linux-informational??style=plastic&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=tokyonight)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=tokyonight)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=tokyonight)
