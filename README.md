@@ -14,19 +14,15 @@ I'm a Software developer passionate about writting code that solves humman probl
 - 😄 Pronouns: he/him
 
 - ⚡ Fun fact: I love vacations
-
+<!--
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational??style=plastic&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=tokyonight)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=tokyonight)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=tokyonight)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=tokyonight)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=tokyonight)
+![](https://img.shields.io/badge/OS-Linux-informational??style=plastic&logo=linux&logoColor=white&color=tokyonight)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=tokyonight)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=tokyonight)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=tokyonight)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=tokyonight)
+
+-->
 
 ## &#x1f4c8; GitHub Stats
 
