@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software developer passionate about writting code that solves humman problem. Aside writting codes, i write articles here [Blog](https://idrisolubisi.com/blog "My Blog") and also contribute to open source.
+I'm a Software developer passionate about writting code that solves humman problem. Aside writting codes, i write articles [Here](https://idrisolubisi.com/blog "My Blog") and also contribute to open source.
 
 - 👯 I’m looking to collaborate on more open source projects
 
