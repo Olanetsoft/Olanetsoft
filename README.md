@@ -15,6 +15,7 @@ I'm a Software developer passionate about writting code that solves humman probl
 
 - ⚡ Fun fact: I love vacations
 
+![Olanetsoft's github stats](https://github-readme-stats.vercel.app/api?username=olanetsoft&show_icons=true&theme=tokyonight)
 ![Olanetsoft's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=olanetsoft&show_icons=true&theme=tokyonight)
 
 <!--
