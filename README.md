@@ -13,7 +13,7 @@ I'm a Software developer passionate about writting code that solves humman probl
   
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: I love vacations
+- ⚡ Fun fact: I love vacation
 <!--
 ## 🔧 Technologies & Tools
 
