@@ -17,6 +17,8 @@ I'm a Software developer passionate about writting code that solves humman probl
 
 ![Olanetsoft's github stats](https://github-readme-stats.vercel.app/api?username=olanetsoft&show_icons=true&theme=tokyonight)
 
+![](https://img.shields.io/badge/code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=blue)
+
 <!--
 **Olanetsoft/Olanetsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
