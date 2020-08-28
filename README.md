@@ -3,16 +3,12 @@
 I'm a Software developer passionate about writting code that solves humman problem. Aside writting codes, i write articles [Here](https://idrisolubisi.com/blog "My Blog") and also contribute to open source.
 
 - 👯 I’m looking to collaborate on more open source projects
-
 - 💬 Ask me about Software development.
-
 - 📫 How to reach me: 
   * [Twitter](https://twitter.com/olanetsoft "My Twitter")
   * [LinkedIn](https://www.linkedin.com/in/olubisi-idris-ayinde-05727b17a/ "My LinkedIn")
   * [Portfolio/Blog](https://idrisolubisi.com "My portfolio")
-  
 - 😄 Pronouns: he/him
-
 - ⚡ Fun fact: I love vacation
 <!--
 ## 🔧 Technologies & Tools
