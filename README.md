@@ -1,7 +1,12 @@
 <h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 <hr>
 
-I'm a Software developer passionate about writting code that solves humman problem. Aside writting codes, i write articles [Here](https://idrisolubisi.com/blog "My Blog") and also contribute to open source.
+I'm a Software developer skilled at problem-solving, technical leadership, communications, and presentations with vast experience in the full project life cycle from design to implementation to integration. 
+
+I enjoy working in teams, collaborating, pair programming and i have a persistent professional experience of building and developing in the Information Technology industry, in which I provide strong technical direction across multiple projects.
+
+Aside slapping my keyboard till something magical emerge, i write articles [Here](https://idrisolubisi.com/blog "My Blog") and also contribute to open source.
+
 
 - 👯 I’m looking to collaborate on more open source projects
 - 💬 Ask me about Software development.
