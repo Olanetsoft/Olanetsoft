@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Idris Olubisi</h3>
+<h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>IDRIS</B></h3>
 <hr>
 
 A Software developer skilled at problem-solving, technical leadership, communications, and presentations with vast experience in the full project life cycle from design to implementation to integration. 
