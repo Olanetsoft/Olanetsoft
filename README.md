@@ -13,8 +13,8 @@ Aside slapping my keyboard till something magical emerge, i write articles [Here
   * [Twitter](https://twitter.com/olanetsoft "My Twitter")
   * [LinkedIn](https://www.linkedin.com/in/olubisi-idris-ayinde-05727b17a/ "My LinkedIn")
   * [Portfolio/Blog](https://idrisolubisi.com "My portfolio")
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love vacation
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I love vacation.
 <!--
 ## 🔧 Technologies & Tools
 
