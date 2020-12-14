@@ -5,7 +5,7 @@ A Software developer and a Technical writter skilled at problem-solving, technic
 
 I enjoy working in teams, collaborating, pair programming and i have a persistent professional experience of building and developing in the Information Technology industry, in which I provide strong technical direction across multiple projects.
 
-Aside slapping my keyboard till something magical emerge, i write articles [Here](https://idrisolubisi.com/blog "My Blog") and also contribute to open source.
+Aside slapping my keyboard till something magical emerge, i write articles [Here](https://blog.idrisolubisi.com "My Blog") and also contribute to open source.
 
 - 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me about Community Program Management, ReactJS, Web Performance, PWA, NodeJs, .Net, Testing, Open Source..
