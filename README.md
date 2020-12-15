@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>IDRIS</B></h3>
 <hr>
 
-A Software developer and a Technical writter skilled at problem-solving, technical leadership, communications, and presentations with vast experience in the full project life cycle from design to implementation to integration. 
+A Software developer, Technical writer and a Speaker skilled at problem-solving, technical leadership, communications, and presentations with vast experience in the full project life cycle from design to implementation to integration. 
 
 I enjoy working in teams, collaborating, pair programming and i have a persistent professional experience of building and developing in the Information Technology industry, in which I provide strong technical direction across multiple projects.
 
