@@ -26,7 +26,7 @@ Aside slapping my keyboard till something magical emerge, i write articles [Here
 
 -->
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats.
 
 ![Olanetsoft's github stats](https://github-readme-stats.vercel.app/api?username=olanetsoft&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olanetsoft&layout=compact&theme=tokyonight)](https://github.com/Olanetsoft)
