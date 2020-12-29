@@ -12,8 +12,8 @@ Aside slapping my keyboard till something magical emerge, i write articles [Here
 - 📫 How to reach me: 
   * [Twitter](https://twitter.com/olanetsoft "My Twitter")
   * [LinkedIn](https://www.linkedin.com/in/olubisi-idris-ayinde-05727b17a/ "My LinkedIn")
-  * [Blog](https://blog.idrisolubisi.com "My portfolio")
-  * [Portfolio](https://idrisolubisi.com "Blog")
+  * [Blog](https://blog.idrisolubisi.com "Blog")
+  * [Portfolio](https://idrisolubisi.com "My portfolio")
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love vacation.
 <!--
