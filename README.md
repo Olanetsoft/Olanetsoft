@@ -14,6 +14,9 @@ Aside slapping my keyboard till something magical emerge, i write articles [Here
   * [LinkedIn](https://www.linkedin.com/in/olubisi-idris-ayinde-05727b17a/ "My LinkedIn")
   * [Blog](https://blog.idrisolubisi.com "Blog")
   * [Portfolio](https://idrisolubisi.com "My portfolio")
+  * [FreeCodeCamp](https://www.freecodecamp.org/news/author/idris/ "FreeCodeCamp")
+  * [Dev.to](https://dev.to/olanetsoft "Dev.to")
+  * [Medium](https://olanetsoft.medium.com/ "Medium")
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love vacation.
 <!--
