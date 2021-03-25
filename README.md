@@ -1,9 +1,10 @@
 <h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>IDRIS</B></h3>
 <hr>
 
-A Software developer, Technical writer and a Speaker skilled at problem-solving, technical leadership, communications, and presentations with vast experience in the full project life cycle from design to implementation to integration. 
+I am a Software Developer, Technical Writer, and Speaker with extensive experience in the entire project life cycle, from concept to implementation to integration. I am an expert at problem-solving, technical leadership, communications, and presentations.
 
-I enjoy working in teams, collaborating, pair programming and i have a persistent professional experience of building and developing in the Information Technology industry, in which I provide strong technical direction across multiple projects.
+I enjoy working in teams, partnering, and pair programming and I have extensive professional experience in the Information Technology industry, with over 3 years of building and developing in which I provide clear strategic guidance through multiple projects. 
+
 
 Aside slapping my keyboard till something magical emerge, i write articles [Here](https://blog.idrisolubisi.com "My Blog") and also contribute to open source.
 
