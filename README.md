@@ -9,7 +9,7 @@ I enjoy working in teams, partnering, and pair programming and I have extensive 
 Aside slapping my keyboard till something magical emerge, i write articles [Here](https://blog.idrisolubisi.com "My Blog") and also contribute to open source.
 
 - 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me about Community Program Management, ReactJS, Web Performance, PWA, NodeJs, .Net, Testing, Open Source..
+- 💬 Ask me about Community Program Management, ReactJS, JamStack, Web Performance, PWA, NodeJs, .Net, Testing, Open Source..
 - 📫 How to reach me: 
   * [Twitter](https://twitter.com/olanetsoft "My Twitter")
   * [LinkedIn](https://www.linkedin.com/in/olubisi-idris-ayinde-05727b17a/ "My LinkedIn")
