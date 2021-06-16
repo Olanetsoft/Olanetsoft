@@ -17,7 +17,7 @@ Aside slapping my keyboard till something magical emerge, i write articles [Here
   * Technical Writing Profiles:
     * [Blog](https://blog.idrisolubisi.com "Blog")
     * [FreeCodeCamp](https://www.freecodecamp.org/news/author/idris/ "FreeCodeCamp")
-    * [Section](https://www.section.io/engineering-education/authors/idris-olubisi/)
+    * [Section Engineering](https://www.section.io/engineering-education/authors/idris-olubisi/)
     * [Dev.to](https://dev.to/olanetsoft "Dev.to")
     * [Medium](https://olanetsoft.medium.com/ "Medium")
    
