@@ -40,6 +40,11 @@ Aside slapping my keyboard till something magical emerge, i write articles [Here
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=olanetsoft)
+
+Started counting on <b>05/07/2021 </b>
+
+![Profile views](https://gpvc.arturio.dev/olanetsoft)  
+
 <!--
 **Olanetsoft/Olanetsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
