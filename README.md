@@ -28,6 +28,7 @@ Aside slapping my keyboard till something magical emerge, i write articles [Here
 
 <!-- BLOG-POST-LIST:START -->
 - [Awesome GitHub Repositories to Learn CSS 👨‍💻](https://blog.idrisolubisi.com/awesome-github-repositories-to-learn-css)
+- [Get Paid to Write for These 45+ Websites](https://blog.idrisolubisi.com/get-paid-to-write-for-these-45-websites)
 - [How to Authenticate Users and Implement CORS in Node.js Apps 🔎](https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/)
 - [15 Best Free Public Apis to Use in Your Next Project 🚀](https://blog.idrisolubisi.com/15-best-free-public-apis-to-use-in-your-next-project)
 - [How to Upload Audio and Video to Cloudinary in Nodejs 🚀](https://blog.idrisolubisi.com/how-to-upload-audio-and-video-to-cloudinary-in-nodejs)
