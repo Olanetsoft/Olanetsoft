@@ -9,7 +9,7 @@ I enjoy working in teams, partnering, and pair programming and I have extensive 
 Aside slapping my keyboard till something magical emerge, i write articles [Here](https://blog.idrisolubisi.com "My Blog") and also contribute to open source.
 
 - 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me about Community Program Management, ReactJS, JamStack, Web Performance, PWA, NodeJs, .Net, Testing, Open Source..
+- 💬 Ask me about Mentorship, Community Program Management, ReactJS, JamStack, PWA, GraphQl, NodeJs, .Net, Testing, Open Source..
 - 📫 How to reach me: 
   * [Twitter](https://twitter.com/olanetsoft "My Twitter")
   * [LinkedIn](https://www.linkedin.com/in/olubisi-idris-ayinde-05727b17a/ "My LinkedIn")
@@ -22,16 +22,17 @@ Aside slapping my keyboard till something magical emerge, i write articles [Here
     * [Medium](https://olanetsoft.medium.com/ "Medium")
    
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I love vacation.
-<!--
-## 🔧 Technologies & Tools
+- ⚡ Fun fact: I love chocolate 🥳
 
-![](https://img.shields.io/badge/OS-Linux-informational??style=plastic&logo=linux&logoColor=white&color=tokyonight)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=tokyonight)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=tokyonight)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=tokyonight)
+## My Recent Blog posts ✍️
 
--->
+<!-- BLOG-POST-LIST:START -->
+- [Awesome GitHub Repositories to Learn CSS 👨‍💻](https://blog.idrisolubisi.com/awesome-github-repositories-to-learn-css)
+- [How to Authenticate Users and Implement CORS in Node.js Apps 🔎](https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/)
+- [15 Best Free Public Apis to Use in Your Next Project 🚀](https://blog.idrisolubisi.com/15-best-free-public-apis-to-use-in-your-next-project)
+- [How to Upload Audio and Video to Cloudinary in Nodejs 🚀](https://blog.idrisolubisi.com/how-to-upload-audio-and-video-to-cloudinary-in-nodejs)
+- [How to Build a Clock with JavaScript and SVG ⚡️](https://www.section.io/engineering-education/how-to-build-a-clock-with-javascript-and-svg/)
+<!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats.
 
@@ -44,7 +45,6 @@ Aside slapping my keyboard till something magical emerge, i write articles [Here
 Started counting on <b>05/07/2021</b>
 
 ![Profile views](https://gpvc.arturio.dev/olanetsoft)  
-
 <!--
 **Olanetsoft/Olanetsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
