@@ -9,7 +9,7 @@ I enjoy working in teams, partnering, and pair programming and I have extensive 
 Aside slapping my keyboard till something magical emerge, i write articles [Here](https://blog.idrisolubisi.com "My Blog") and also contribute to open source.
 
 - 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me about Mentorship, Community Program Management, ReactJS, JamStack, PWA, GraphQl, NodeJs, .Net, Testing, Open Source..
+- 💬 Ask me about Mentorship, Community Program Management, ReactJS, JamStack, PWA, GraphQl, NodeJs, DevOps .Net, Testing, Open Source..
 - 📫 How to reach me: 
   * [Twitter](https://twitter.com/olanetsoft "My Twitter")
   * [LinkedIn](https://www.linkedin.com/in/olubisi-idris-ayinde-05727b17a/ "My LinkedIn")
@@ -28,6 +28,7 @@ Aside slapping my keyboard till something magical emerge, i write articles [Here
 
 <!-- BLOG-POST-LIST:START -->
 - [Awesome GitHub Repositories to Learn CSS 👨‍💻](https://blog.idrisolubisi.com/awesome-github-repositories-to-learn-css)
+- [How to Build an Authentication API with JWT Token in Node.js](https://www.section.io/engineering-education/how-to-build-authentication-api-with-jwt-token-in-nodejs/)
 - [Get Paid to Write for These 45+ Websites](https://blog.idrisolubisi.com/get-paid-to-write-for-these-45-websites)
 - [How to Authenticate Users and Implement CORS in Node.js Apps 🔎](https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/)
 - [15 Best Free Public Apis to Use in Your Next Project 🚀](https://blog.idrisolubisi.com/15-best-free-public-apis-to-use-in-your-next-project)
