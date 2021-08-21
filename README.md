@@ -27,6 +27,7 @@ Aside slapping my keyboard till something magical emerge, i write articles [Here
 ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [10+ Awesome Youtube Channels to Learn UI/UX](https://blog.idrisolubisi.com/10-awesome-youtube-channels-to-learn-uiux)
 - [How to Create Beautiful Gradients with JavaScript](https://blog.idrisolubisi.com/how-to-create-beautiful-gradients-with-javascript)
 - [Awesome GitHub Repositories to Learn CSS 👨‍💻](https://blog.idrisolubisi.com/awesome-github-repositories-to-learn-css)
 - [How to Build an Authentication API with JWT Token in Node.js](https://www.section.io/engineering-education/how-to-build-authentication-api-with-jwt-token-in-nodejs/)
