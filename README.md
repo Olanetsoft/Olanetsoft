@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>IDRIS</B></h3>
 <hr>
 
-I am a Software Developer, Technical Writer, and Speaker with extensive experience in the entire project life cycle, from concept to implementation to integration. I am an expert at problem-solving, technical leadership, communications, and presentations.
+I am a Software Developer, Technical Writer, and Speaker with vast project life cycle experience, from design to implementation to integration. Problem-solving, technical leadership, communications, and presentations are areas in which I excel.
 
 I enjoy working in teams, partnering, and pair programming and I have extensive professional experience in the Information Technology industry, with over 3 years of building and developing in which I provide clear strategic guidance through multiple projects. 
 
@@ -26,6 +26,7 @@ Aside slapping my keyboard till something magical emerge, i write articles [Here
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love chocolate 🥳
 
+
 ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
@@ -42,7 +43,7 @@ Aside slapping my keyboard till something magical emerge, i write articles [Here
 
 ## &#x1f4c8; GitHub Stats.
 
-![Olanetsoft's github stats](https://github-readme-stats.vercel.app/api?username=olanetsoft&show_icons=true&theme=tokyonight)
+![Olanetsoft's github stats](https://github-readme-stats.vercel.app/api?username=olanetsoft&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olanetsoft&layout=compact&theme=tokyonight)](https://github.com/Olanetsoft)
 
 
