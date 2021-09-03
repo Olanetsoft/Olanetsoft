@@ -38,6 +38,9 @@ Aside slapping my keyboard till something magical emerge, i write articles [Here
 
 ### FreeCodeCamp
 <!-- FCC:START -->
+- [How to Authenticate Users and Implement CORS in Node.js Apps](https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/)
+- [API Cheat Sheet – What is an API, How it Works, and How to Choose the Right API Testing Tools](https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it/)
+- [How to Deploy a Front End Application with Netlify](https://www.freecodecamp.org/news/how-to-deploy-your-front-end-app/)
 <!-- FCC:END -->
 
 ### Dev Community
