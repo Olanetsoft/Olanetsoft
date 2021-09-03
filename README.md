@@ -21,14 +21,27 @@ Aside slapping my keyboard till something magical emerge, i write articles [Here
 
 ### My Blog
 <!-- BLOG:START -->
+- [How to fix su: Authentication failure](https://blog.idrisolubisi.com/how-to-fix-su-authentication-failure)
+- [How to Integrate Real-time Webcam on a Web Page Using Javascript](https://blog.idrisolubisi.com/how-to-integrate-real-time-webcam-on-a-web-page-using-javascript)
+- [How to Create a Sudo User on Ubuntu](https://blog.idrisolubisi.com/how-to-create-a-sudo-user-on-ubuntu)
+- [10 Awesome Youtube channels to learn UI/UX](https://blog.idrisolubisi.com/10-awesome-youtube-channels-to-learn-uiux)
+- [How to Become a DevOps Engineer: A Step-by-Step Guide](https://blog.idrisolubisi.com/how-to-become-a-devops-engineer-a-step-by-step-guide)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
 <!-- FCC:START -->
+- [How to Authenticate Users and Implement CORS in Node.js Apps](https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/)
+- [API Cheat Sheet – What is an API, How it Works, and How to Choose the Right API Testing Tools](https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it/)
+- [How to Deploy a Front End Application with Netlify](https://www.freecodecamp.org/news/how-to-deploy-your-front-end-app/)
 <!-- FCC:END -->
 
 ### Dev Community
 <!-- DEVTO:START -->
+- [10 Awesome Youtube channels to learn UI/UX](https://dev.to/olanetsoft/10-awesome-youtube-channels-to-learn-ui-ux-mp1)
+- [Awesome GitHub Repositories to Learn CSS](https://dev.to/olanetsoft/awesome-github-repositories-to-learn-css-3ahd)
+- [How to Build a Clock with JavaScript and SVG](https://dev.to/olanetsoft/how-to-build-a-clock-with-javascript-and-svg-4578)
+- [How to Make Money from Your Blog by Adding Web Monetization](https://dev.to/olanetsoft/how-to-make-money-from-your-blog-by-adding-web-monetization-3l9h)
+- [Global Error handling in Node Js](https://dev.to/olanetsoft/global-error-handling-in-node-js-52jp)
 <!-- DEVTO:END -->
 
 <!-- - [10+ Awesome Youtube Channels to Learn UI/UX](https://blog.idrisolubisi.com/10-awesome-youtube-channels-to-learn-uiux)
