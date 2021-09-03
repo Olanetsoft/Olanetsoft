@@ -29,6 +29,11 @@ Aside slapping my keyboard till something magical emerge, i write articles [Here
 
 ### My Blog
 <!-- BLOG:START -->
+- [How to fix su: Authentication failure](https://blog.idrisolubisi.com/how-to-fix-su-authentication-failure)
+- [How to Integrate Real-time Webcam on a Web Page Using Javascript](https://blog.idrisolubisi.com/how-to-integrate-real-time-webcam-on-a-web-page-using-javascript)
+- [How to Create a Sudo User on Ubuntu](https://blog.idrisolubisi.com/how-to-create-a-sudo-user-on-ubuntu)
+- [10 Awesome Youtube channels to learn UI/UX](https://blog.idrisolubisi.com/10-awesome-youtube-channels-to-learn-uiux)
+- [How to Become a DevOps Engineer: A Step-by-Step Guide](https://blog.idrisolubisi.com/how-to-become-a-devops-engineer-a-step-by-step-guide)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
