@@ -8,7 +8,7 @@ Problem-solving, technical leadership, communications, and presentations are are
 Aside slapping my keyboard till something magical emerge, i write articles [Here](https://blog.idrisolubisi.com "My Blog") and also contribute to open source.
 
 - 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me about Technical Writing, Mentorship, Community Program Management, ReactJS, JamStack, PWA, GraphQl, NodeJs, DevOps, .Net, Testing, Open Source..
+- 💬 Ask me about Technical Writing, Mentorship, Community Program Management, ReactJS, JamStack, PWA, GraphQl, NodeJs, DevOps, .Net, Testing, Open Source.
 - 📫 How to reach me:
   - Social Media
     - [Twitter](https://twitter.com/olanetsoft "My Twitter") | [LinkedIn](https://www.linkedin.com/in/olubisi-idris-ayinde-05727b17a/ "My LinkedIn") | [Portfolio](https://idrisolubisi.com "My portfolio") | [Showwwcase](https://showwcase.com/olanetsoft) | [Timeline](https://timeline.idrisolubisi.com)
