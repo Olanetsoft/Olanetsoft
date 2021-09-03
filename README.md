@@ -1,15 +1,15 @@
 <h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>IDRIS</B></h3>
 <hr>
 
-I am a Software Developer, Technical Writer, and Speaker with vast project life cycle experience, from design to implementation to integration. Problem-solving, technical leadership, communications, and presentations are areas in which I excel.
+I am a Software Developer, Technical Writer, and Speaker with vast project life cycle experience, from design to implementation to integration.
 
-I enjoy working in teams, partnering, and pair programming and I have extensive professional experience in the Information Technology industry, with over 3 years of building and developing in which I provide clear strategic guidance through multiple projects.
+Problem-solving, technical leadership, communications, and presentations are areas in which I excel.
 
 Aside slapping my keyboard till something magical emerge, i write articles [Here](https://blog.idrisolubisi.com "My Blog") and also contribute to open source.
 
 - 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me about Technical Writing, Mentorship, Community Program Management, ReactJS, JamStack, PWA, GraphQl, NodeJs, DevOps, .Net, Testing, Open Source..
-- 📫 How to reach me: 
+- 📫 How to reach me:
   - Social Media
     - [Twitter](https://twitter.com/olanetsoft "My Twitter") | [LinkedIn](https://www.linkedin.com/in/olubisi-idris-ayinde-05727b17a/ "My LinkedIn") | [Portfolio](https://idrisolubisi.com "My portfolio") | [Showwwcase](https://showwcase.com/olanetsoft) | [Timeline](https://timeline.idrisolubisi.com)
   - Technical Writing Profiles: 
