@@ -3,9 +3,7 @@
 
 I am a Software Developer, Technical Writer, and Speaker with vast project life cycle experience, from design to implementation to integration.
 
-Problem-solving, technical leadership, communications, and presentations are areas in which I excel.
-
-Aside slapping my keyboard till something magical emerge, i write articles [Here](https://blog.idrisolubisi.com "My Blog") and also contribute to open source.
+Problem-solving, technical leadership, communications, and presentations are areas in which I excel. Aside slapping my keyboard till something magical emerge, i write articles [Here](https://blog.idrisolubisi.com "My Blog") to share my knowledge and also contribute to open source.
 
 - 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me about Technical Writing, Mentorship, Community Program Management, ReactJS, JamStack, PWA, GraphQl, NodeJs, DevOps, .Net, Testing, Open Source.
