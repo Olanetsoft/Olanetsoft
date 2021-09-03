@@ -29,17 +29,14 @@ Aside slapping my keyboard till something magical emerge, i write articles [Here
 
 ### My Blog
 <!-- BLOG:START -->
-
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
 <!-- FCC:START -->
-
 <!-- FCC:END -->
 
 ### Dev Community
 <!-- DEVTO:START -->
-
 <!-- DEVTO:END -->
 
 <!-- - [10+ Awesome Youtube Channels to Learn UI/UX](https://blog.idrisolubisi.com/10-awesome-youtube-channels-to-learn-uiux)
