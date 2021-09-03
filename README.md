@@ -37,6 +37,11 @@ Aside slapping my keyboard till something magical emerge, i write articles [Here
 
 ### Dev Community
 <!-- DEVTO:START -->
+- [10 Awesome Youtube channels to learn UI/UX](https://dev.to/olanetsoft/10-awesome-youtube-channels-to-learn-ui-ux-mp1)
+- [Awesome GitHub Repositories to Learn CSS](https://dev.to/olanetsoft/awesome-github-repositories-to-learn-css-3ahd)
+- [How to Build a Clock with JavaScript and SVG](https://dev.to/olanetsoft/how-to-build-a-clock-with-javascript-and-svg-4578)
+- [How to Make Money from Your Blog by Adding Web Monetization](https://dev.to/olanetsoft/how-to-make-money-from-your-blog-by-adding-web-monetization-3l9h)
+- [Global Error handling in Node Js](https://dev.to/olanetsoft/global-error-handling-in-node-js-52jp)
 <!-- DEVTO:END -->
 
 <!-- - [10+ Awesome Youtube Channels to Learn UI/UX](https://blog.idrisolubisi.com/10-awesome-youtube-channels-to-learn-uiux)
