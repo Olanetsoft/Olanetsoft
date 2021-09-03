@@ -15,3 +15,21 @@ jobs:
         with:
           max_post_count: "10"
           feed_list: "https://blog.idrisolubisi.com/rss.xml,https://feedly.com/i/subscription/feed/https://www.freecodecamp.org/news/author/idris/rss/, "
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: khaosdoctor/blog-post-workflow@master
+        with:
+          comment_tag_name: DEVTO
+          feed_list: "https://dev.to/feed/olanetsoft"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: BLOG
+          feed_list: "https://blog.idrisolubisi.com/rss.xml"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: FCC
+          feed_list: "https://www.freecodecamp.org/news/author/idris/rss"
