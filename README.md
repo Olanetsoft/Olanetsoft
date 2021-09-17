@@ -20,11 +20,11 @@ Problem-solving, technical leadership, communications, and presentations are are
 
 ### My Blog
 <!-- BLOG:START -->
+- [How to Safely Install Jenkins on Linux(Ubuntu) Without Errors](https://blog.idrisolubisi.com/how-to-safely-install-jenkins-on-linuxubuntu-without-errors)
 - [10+ Github Repositories You Should Know as a Developer](https://blog.idrisolubisi.com/10-github-repositories-you-should-know-as-a-developer)
 - [How to Install and Setup Nginx on Ubuntu Server](https://blog.idrisolubisi.com/how-to-install-and-setup-nginx-on-ubuntu-server)
 - [Curated List: Awesome Hackathon Projects](https://blog.idrisolubisi.com/curated-list-awesome-hackathon-projects)
 - [How to fix ssh: connect to host 10.0.2.15 port 22: Connection refused](https://blog.idrisolubisi.com/how-to-fix-ssh-connect-to-host-100215-port-22-connection-refused)
-- [How to fix su: Authentication failure](https://blog.idrisolubisi.com/how-to-fix-su-authentication-failure)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
