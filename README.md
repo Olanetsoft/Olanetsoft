@@ -36,11 +36,11 @@ Problem-solving, technical leadership, communications, and presentations are are
 
 ### Dev Community
 <!-- DEVTO:START -->
+- [Get Paid to Write for These 45+ Websites](https://dev.to/olanetsoft/get-paid-to-write-for-these-45-websites-16ap)
 - [10+ Github Repositories You Should Know as a Developer](https://dev.to/olanetsoft/10-github-repositories-you-should-know-as-a-developer-4l0p)
 - [Curated List: Awesome Hackathon Projects](https://dev.to/olanetsoft/curated-list-awesome-hackathon-projects-55fc)
 - [10 Awesome Youtube channels to learn UI/UX](https://dev.to/olanetsoft/10-awesome-youtube-channels-to-learn-ui-ux-mp1)
 - [Awesome GitHub Repositories to Learn CSS](https://dev.to/olanetsoft/awesome-github-repositories-to-learn-css-3ahd)
-- [How to Build a Clock with JavaScript and SVG](https://dev.to/olanetsoft/how-to-build-a-clock-with-javascript-and-svg-4578)
 <!-- DEVTO:END -->
 
 <!-- - [10+ Awesome Youtube Channels to Learn UI/UX](https://blog.idrisolubisi.com/10-awesome-youtube-channels-to-learn-uiux)
