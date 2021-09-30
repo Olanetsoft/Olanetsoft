@@ -36,7 +36,6 @@ Problem-solving, technical leadership, communications, and presentations are are
 
 ### Section Engineering
 <!-- SEC:START -->
-
 <!-- SEC:END -->
 
 ### Dev Community
