@@ -60,9 +60,12 @@ Problem-solving, technical leadership, communications, and presentations are are
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=olanetsoft)
 
+
 Started counting on <b>05/07/2021</b>
 
 ![Profile views](https://gpvc.arturio.dev/olanetsoft)  
+
+<a href="https://www.buymeacoffee.com/olanetsoft"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=olanetsoft&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 <!--
 **Olanetsoft/Olanetsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
