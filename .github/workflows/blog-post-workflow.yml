@@ -23,7 +23,3 @@ jobs:
         with:
           comment_tag_name: FCC
           feed_list: "https://www.freecodecamp.org/news/author/idris/rss"
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: SEC
-          feed_list: "https://section-author-feeds.louisefindlay.com/feed/author/idris-olubisi"

@@ -34,10 +34,6 @@ Problem-solving, technical leadership, communications, and presentations are are
 - [How to Deploy a Front End Application with Netlify](https://www.freecodecamp.org/news/how-to-deploy-your-front-end-app/)
 <!-- FCC:END -->
 
-### Section Engineering
-<!-- SEC:START -->
-<!-- SEC:END -->
-
 ### Dev Community
 <!-- DEVTO:START -->
 - [12+ Github Repositories to Help You Ace Your Job Interview](https://dev.to/olanetsoft/12-github-repositories-to-help-you-ace-your-job-interview-2a08)
