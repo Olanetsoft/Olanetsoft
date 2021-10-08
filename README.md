@@ -20,11 +20,11 @@ Problem-solving, technical leadership, communications, and presentations are are
 
 ### My Blog
 <!-- BLOG:START -->
+- [How to fix Error response from daemon: pull access denied for your_username/your_repository](https://blog.idrisolubisi.com/how-to-fix-error-response-from-daemon-pull-access-denied-for-yourusernameyourrepository)
 - [How to Bypass Captcha Using Javascript and 2Captcha](https://blog.idrisolubisi.com/how-to-bypass-captcha-using-javascript-and-2captcha)
 - [12+ Github Repositories to Help You Ace Your Job Interview](https://blog.idrisolubisi.com/12-github-repositories-to-help-you-ace-your-job-interview)
 - [How to Safely Install Jenkins on Linux(Ubuntu) Without Errors](https://blog.idrisolubisi.com/how-to-safely-install-jenkins-on-linuxubuntu-without-errors)
 - [10+ Github Repositories You Should Know as a Developer](https://blog.idrisolubisi.com/10-github-repositories-you-should-know-as-a-developer)
-- [How to Install and Setup Nginx on Ubuntu Server](https://blog.idrisolubisi.com/how-to-install-and-setup-nginx-on-ubuntu-server)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
