@@ -36,11 +36,11 @@ Problem-solving, technical leadership, communications, and presentations are are
 
 ### Dev Community
 <!-- DEVTO:START -->
+- [20+ JavaScript Utilities to Boost Your Productivity As a Developer](https://dev.to/olanetsoft/20-javascript-utilities-to-boost-your-productivity-as-a-developer-494n)
 - [How to Build a Music Streaming App with React using Auth0 and Cloudinary](https://dev.to/hackmamba/how-to-build-a-music-streaming-app-with-react-using-auth0-and-cloudinary-6k9)
 - [How to Bypass Captcha Using Javascript and 2Captcha](https://dev.to/olanetsoft/how-to-bypass-captcha-using-javascript-and-2captcha-57p7)
 - [12+ Github Repositories to Help You Ace Your Job Interview](https://dev.to/olanetsoft/12-github-repositories-to-help-you-ace-your-job-interview-2a08)
 - [Get Paid to Write for These 45+ Websites](https://dev.to/olanetsoft/get-paid-to-write-for-these-45-websites-16ap)
-- [10+ Github Repositories You Should Know as a Developer](https://dev.to/olanetsoft/10-github-repositories-you-should-know-as-a-developer-4l0p)
 <!-- DEVTO:END -->
 
 <!-- - [10+ Awesome Youtube Channels to Learn UI/UX](https://blog.idrisolubisi.com/10-awesome-youtube-channels-to-learn-uiux)
