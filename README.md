@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>IDRIS</B></h3>
 <hr>
 
-I am a Software Developer, Technical Writer, and a Community Builder with vast project life cycle experience, from design to implementation to integration.
+I am a Software Developer, Technical Writer, and a Community Builder with vast project life cycle experience.
 
 Problem-solving, technical leadership, communications, and presentations are areas in which I excel. Aside slapping my keyboard till something magical emerge, i write articles [Here](https://blog.idrisolubisi.com "My Blog") to share my knowledge and also contribute to open source.
 
