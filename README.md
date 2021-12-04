@@ -20,11 +20,11 @@ Problem-solving, technical leadership, communications, and presentations are are
 
 ### My Blog
 <!-- BLOG:START -->
+- [Build a Mini Buymeacoffee dApp Using Solidity + Ethereum Smart Contract + ReactJs + TailwindCSS](https://blog.idrisolubisi.com/build-a-mini-buymeacoffee-dapp-using-solidity-ethereum-smart-contract-reactjs-tailwindcss)
 - [Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started](https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started)
 - [How to Build a Wallet System with Flutterwave Payment Integration Into NodeJs Application](https://blog.idrisolubisi.com/how-to-build-a-wallet-system-with-flutterwave-payment-integration-into-nodejs-application)
 - [20+ JavaScript Utilities to Boost Your Productivity As a Developer](https://blog.idrisolubisi.com/20-javascript-utilities-to-boost-your-productivity-as-a-developer)
 - [How to Integrate a Live Chat Feature to Your React Application with Chatwoot](https://blog.idrisolubisi.com/how-to-integrate-a-live-chat-feature-to-your-react-application-with-chatwoot)
-- [How to fix Error response from daemon: pull access denied for your_username/your_repository](https://blog.idrisolubisi.com/how-to-fix-error-response-from-daemon-pull-access-denied-for-yourusernameyourrepository)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
