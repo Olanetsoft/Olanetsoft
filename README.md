@@ -37,11 +37,11 @@ Problem-solving, technical leadership, communications, and presentations are are
 
 ### Dev Community
 <!-- DEVTO:START -->
+- [Build a Mini Buymeacoffee dApp Using Solidity + Ethereum Smart Contract + ReactJs + TailwindCSS](https://dev.to/olanetsoft/build-a-mini-buymeacoffee-dapp-using-solidity-ethereum-smart-contract-reactjs-tailwindcss-26j5)
 - [Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started](https://dev.to/olanetsoft/web-30-a-developer-roadmap-guide-and-resources-to-get-started-45oa)
 - [How to Build a Wallet System with Flutterwave Payment Integration Into NodeJs Application](https://dev.to/olanetsoft/how-to-build-a-wallet-system-with-flutterwave-payment-integration-into-nodejs-application-175b)
 - [20+ JavaScript Utilities to Boost Your Productivity As a Developer](https://dev.to/olanetsoft/20-javascript-utilities-to-boost-your-productivity-as-a-developer-494n)
 - [How to Build a Music Streaming App with React using Auth0 and Cloudinary](https://dev.to/hackmamba/how-to-build-a-music-streaming-app-with-react-using-auth0-and-cloudinary-6k9)
-- [How to Bypass Captcha Using Javascript and 2Captcha](https://dev.to/olanetsoft/how-to-bypass-captcha-using-javascript-and-2captcha-57p7)
 <!-- DEVTO:END -->
 
 <!-- - [10+ Awesome Youtube Channels to Learn UI/UX](https://blog.idrisolubisi.com/10-awesome-youtube-channels-to-learn-uiux)
