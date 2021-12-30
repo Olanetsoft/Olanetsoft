@@ -9,7 +9,7 @@ Problem-solving, technical leadership, communications, and presentations are are
 - 💬 Ask me about Technical Writing, Mentorship, Community Program Management, ReactJS, JamStack, PWA, GraphQl, NodeJs, DevOps, .Net, Testing, Open Source.
 - 📫 How to reach me:
   - Social Media
-    - [Twitter](https://twitter.com/olanetsoft "My Twitter") | [LinkedIn](https://www.linkedin.com/in/olubisi-idris-ayinde-05727b17a/ "My LinkedIn") | [Portfolio](https://idrisolubisi.com "My portfolio") | [Showwwcase](https://profile.idrisolubisi.com) | [Timeline](https://timeline.idrisolubisi.com)
+    - [Twitter](https://twitter.com/olanetsoft "My Twitter") | [LinkedIn](https://www.linkedin.com/in/olubisi-idris-ayinde-05727b17a/ "My LinkedIn") | [Portfolio](https://idrisolubisi.com "My portfolio") | [Showwwcase](https://profile.idrisolubisi.com) | [Timeline](https://timeline.idrisolubisi.com) | [LinkTree](https://linktr.ee/olanetsoft)
   - Technical Writing Profiles: 
     - [Blog](https://blog.idrisolubisi.com "Blog") | [FreeCodeCamp](https://www.freecodecamp.org/news/author/idris/ "FreeCodeCamp") | [Section Engineering](https://www.section.io/engineering-education/authors/idris-olubisi/) | [Dev.to](https://dev.to/olanetsoft "Dev.to") | [Medium](https://olanetsoft.medium.com/ "Medium") | [TealFeed](https://tealfeed.com/olanetsoft) | [DevDojo](https://devdojo.com/olanetsoft) | [HackMamba](https://docs.google.com/document/d/1o1O6eSSxdjWkQOqiQitUilI0xyNkNgivNQoJJXabsqI/edit?usp=sharing) | [AppSmith](https://www.appsmith.com/blog-authors/olubisi-idris-ayinde)
 
