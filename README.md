@@ -37,11 +37,11 @@ Problem-solving, technical leadership, communications, and presentations are are
 
 ### Dev Community
 <!-- DEVTO:START -->
+- [2021 in Review: The Good, the Bad, and the Ugly](https://dev.to/olanetsoft/2021-in-review-the-good-the-bad-and-the-ugly-5gl5)
 - [Upload and Manage Files on Cloudinary with the Filepicker Widget](https://dev.to/appsmith/upload-and-manage-files-on-cloudinary-with-the-filepicker-widget-1b9p)
 - [Build a Mini Buymeacoffee dApp Using Solidity + Ethereum Smart Contract + ReactJs + TailwindCSS](https://dev.to/olanetsoft/build-a-mini-buymeacoffee-dapp-using-solidity-ethereum-smart-contract-reactjs-tailwindcss-26j5)
 - [Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started](https://dev.to/olanetsoft/web-30-a-developer-roadmap-guide-and-resources-to-get-started-45oa)
 - [How to Build a Wallet System with Flutterwave Payment Integration Into NodeJs Application](https://dev.to/olanetsoft/how-to-build-a-wallet-system-with-flutterwave-payment-integration-into-nodejs-application-175b)
-- [20+ JavaScript Utilities to Boost Your Productivity As a Developer](https://dev.to/olanetsoft/20-javascript-utilities-to-boost-your-productivity-as-a-developer-494n)
 <!-- DEVTO:END -->
 
 <!-- - [10+ Awesome Youtube Channels to Learn UI/UX](https://blog.idrisolubisi.com/10-awesome-youtube-channels-to-learn-uiux)
