@@ -37,11 +37,11 @@ Problem-solving, technical leadership, communications, and presentations are are
 
 ### Dev Community
 <!-- DEVTO:START -->
+- [DeFi: Decentralized Finance - Explain like I am 5](https://dev.to/olanetsoft/defi-decentralized-finance-explain-like-i-am-5-48a3)
 - [How to Implement CORS and Authentication in NodeJS](https://dev.to/olanetsoft/how-to-implement-cors-and-authentication-in-nodejs-214c)
 - [2021 in Review: The Good, the Bad, and the Ugly](https://dev.to/olanetsoft/2021-in-review-the-good-the-bad-and-the-ugly-5gl5)
 - [Upload and Manage Files on Cloudinary with the Filepicker Widget](https://dev.to/appsmith/upload-and-manage-files-on-cloudinary-with-the-filepicker-widget-1b9p)
 - [Build a Mini Buymeacoffee dApp Using Solidity + Ethereum Smart Contract + ReactJs + TailwindCSS](https://dev.to/olanetsoft/build-a-mini-buymeacoffee-dapp-using-solidity-ethereum-smart-contract-reactjs-tailwindcss-26j5)
-- [Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started](https://dev.to/olanetsoft/web-30-a-developer-roadmap-guide-and-resources-to-get-started-45oa)
 <!-- DEVTO:END -->
 
 <!-- - [10+ Awesome Youtube Channels to Learn UI/UX](https://blog.idrisolubisi.com/10-awesome-youtube-channels-to-learn-uiux)
