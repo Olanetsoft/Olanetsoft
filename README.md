@@ -1,12 +1,16 @@
 <h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>IDRIS</B></h3>
 <hr>
 
-I am a Software Developer, Technical Writer, and a Community Builder with vast project life cycle experience.
+Idris Olubisi is Software Engineer and a technical writer with immense knowledge and a passionate speaker about open source, blockchain, software products, and serverless technologies.
 
-Problem-solving, technical leadership, communications, and presentations are areas in which I excel. Aside slapping my keyboard till something magical emerge, i write articles [Here](https://blog.idrisolubisi.com "My Blog") to share my knowledge and also contribute to open source.
+He is a contributor to Freecodecamp, a Section engineering author, a LogRocket author, AngelHack ambassador, Hashnode technical writer, and the Backend Lead at SheCodeAfrica, a coding community with over 10k+ active women.
+
+He's also published on Media Jams (by Cloudinary), AppSmith, ImageKit, and other reputable publications, with over 430,000+ views across all platforms.
+
+Aside from slapping the keyboard till something magical emerge, he writes a lot of articles [Here](https://blog.idrisolubisi.com "My Blog") where he shares his knowledge and sometimes contributes to open source.
 
 - 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me about Technical Writing, Mentorship, Community Program Management, ReactJS, JamStack, PWA, GraphQl, NodeJs, DevOps, .Net, Testing, Open Source.
+- 💬 Ask me about Web Development, Technical Writing, Web3, Blockchain, PWA, NodeJs, Serverless Technologies, Open Source etc.
 - 📫 How to reach me:
   - Social Media
     - [Twitter](https://twitter.com/olanetsoft "My Twitter") | [LinkedIn](https://www.linkedin.com/in/olubisi-idris-ayinde-05727b17a/ "My LinkedIn") | [Portfolio](https://idrisolubisi.com "My portfolio") | [Showwwcase](https://profile.idrisolubisi.com) | [Timeline](https://timeline.idrisolubisi.com) | [LinkTree](https://linktr.ee/olanetsoft)
@@ -16,7 +20,7 @@ Problem-solving, technical leadership, communications, and presentations are are
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love chocolate 🥳
 
-## My Recent Blog posts ✍️
+## My Recent Blogposts ✍️
 
 ### My Blog
 <!-- BLOG:START -->
@@ -48,7 +52,7 @@ Problem-solving, technical leadership, communications, and presentations are are
 <!-- - [10+ Awesome Youtube Channels to Learn UI/UX](https://blog.idrisolubisi.com/10-awesome-youtube-channels-to-learn-uiux)
 - [How to Create Beautiful Gradients with JavaScript](https://blog.idrisolubisi.com/how-to-create-beautiful-gradients-with-javascript)
 - [Awesome GitHub Repositories to Learn CSS 👨‍💻](https://blog.idrisolubisi.com/awesome-github-repositories-to-learn-css)
-- [How to Build an Authentication API with JWT Token in Node.js](https://www.section.io/engineering-education/how-to-build-authentication-api-with-jwt-token-in-nodejs/)
+- [How to Build an Authentication API with JWT Token in Node. js](https://www.section.io/engineering-education/how-to-build-authentication-api-with-jwt-token-in-nodejs/)
 - [Get Paid to Write for These 45+ Websites](https://blog.idrisolubisi.com/get-paid-to-write-for-these-45-websites)
 - [How to Authenticate Users and Implement CORS in Node.js Apps 🔎](https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/)
 - [15 Best Free Public Apis to Use in Your Next Project 🚀](https://blog.idrisolubisi.com/15-best-free-public-apis-to-use-in-your-next-project)
@@ -57,7 +61,7 @@ Problem-solving, technical leadership, communications, and presentations are are
   
 ## &#x1f4c8; GitHub Stats
 
-![Olanetsoft's github stats](https://github-readme-stats.vercel.app/api?username=olanetsoft&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Olanetsoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=olanetsoft&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olanetsoft&layout=compact&theme=tokyonight)](https://github.com/Olanetsoft)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=olanetsoft)
