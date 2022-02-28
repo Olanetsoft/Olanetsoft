@@ -42,11 +42,11 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 
 ### Dev Community
 <!-- DEVTO:START -->
+- [How to Integrate QR Code for Authentication Across Web & Mobile Applications in Nodejs](https://dev.to/olanetsoft/how-to-integrate-qr-code-for-authentication-across-web-mobile-applications-in-nodejs-j20)
 - [DeFi: Decentralized Finance - Explain like I am 5](https://dev.to/olanetsoft/defi-decentralized-finance-explain-like-i-am-5-48a3)
 - [How to Implement CORS and Authentication in NodeJS](https://dev.to/olanetsoft/how-to-implement-cors-and-authentication-in-nodejs-214c)
 - [2021 in Review: The Good, the Bad, and the Ugly](https://dev.to/olanetsoft/2021-in-review-the-good-the-bad-and-the-ugly-5gl5)
 - [Upload and Manage Files on Cloudinary with the Filepicker Widget](https://dev.to/appsmith/upload-and-manage-files-on-cloudinary-with-the-filepicker-widget-1b9p)
-- [Build a Mini Buymeacoffee dApp Using Solidity + Ethereum Smart Contract + ReactJs + TailwindCSS](https://dev.to/olanetsoft/build-a-mini-buymeacoffee-dapp-using-solidity-ethereum-smart-contract-reactjs-tailwindcss-26j5)
 <!-- DEVTO:END -->
 
 <!-- - [10+ Awesome Youtube Channels to Learn UI/UX](https://blog.idrisolubisi.com/10-awesome-youtube-channels-to-learn-uiux)
