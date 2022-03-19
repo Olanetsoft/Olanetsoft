@@ -5,7 +5,7 @@ Idris Olubisi is Software Engineer and a technical writer with immense knowledge
 
 He is a contributor to Freecodecamp, a Section engineering author, a LogRocket author, AngelHack ambassador, Hashnode technical writer, and the Backend Lead at SheCodeAfrica, a coding community with over 10k+ active women.
 
-He's also published on Media Jams (by Cloudinary), AppSmith, ImageKit, and other reputable publications, with over 430,000+ views across all platforms.
+He's also published on Media Jams (by Cloudinary), AppSmith, ImageKit, Aviyel, Moralis and other reputable publications, with over 500,000+ views across all platforms.
 
 Aside from slapping the keyboard till something magical emerge, he writes a lot of articles [Here](https://blog.idrisolubisi.com "My Blog") where he shares his knowledge and sometimes contributes to open source.
 
