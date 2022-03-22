@@ -24,11 +24,11 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 
 ### My Blog
 <!-- BLOG:START -->
+- [100+ Web 3.0 Common Terminology](https://blog.idrisolubisi.com/web3-term)
 - [How to Integrate QR Code for Authentication Across Web &amp; Mobile Applications in Nodejs](https://blog.idrisolubisi.com/how-to-integrate-qr-code-for-authentication-across-web-and-mobile-applications-in-nodejs)
 - [DeFi: Decentralized Finance - Explain like I am 5](https://blog.idrisolubisi.com/defi-decentralized-finance-explain-like-i-am-5)
 - [How to Implement CORS and Authentication in NodeJS](https://blog.idrisolubisi.com/how-to-implement-cors-and-authentication-in-nodejs)
 - [2021 in Review: The Good, the Bad, and the Ugly](https://blog.idrisolubisi.com/2021-in-review-the-good-the-bad-and-the-ugly)
-- [Build a Mini Buymeacoffee dApp Using Solidity + Ethereum Smart Contract + ReactJs + TailwindCSS](https://blog.idrisolubisi.com/build-a-mini-buymeacoffee-dapp-using-solidity-ethereum-smart-contract-reactjs-tailwindcss)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
