@@ -24,11 +24,11 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 
 ### My Blog
 <!-- BLOG:START -->
+- [Build a Decentralized News Feed using Reactjs, TailwindCSS, Etherjs, IPFS &amp; Solidity](https://blog.idrisolubisi.com/build-a-decentralized-news-feed-using-reactjs-tailwindcss-etherjs-ipfs-and-solidity)
 - [How to Fix unknown account #0 &lpar;operation=&quot;getAddress&quot;, code=UNSUPPORTED_OPERATION, version=providers/5.6.4&rpar;](https://blog.idrisolubisi.com/how-to-fix-unknown-account-0-operationgetaddress-codeunsupportedoperation-versionproviders564)
 - [Free Resources to Learn Solidity, Ethereum, Blockchain, Fullstack dApps &amp; Smart Contract](https://blog.idrisolubisi.com/free-resources-to-learn-solidity-ethereum-blockchain-fullstack-dapps-and-smart-contract)
 - [100+ Web 3.0 Common Terminology](https://blog.idrisolubisi.com/web3-term)
 - [How to Integrate QR Code for Authentication Across Web &amp; Mobile Applications in Nodejs](https://blog.idrisolubisi.com/how-to-integrate-qr-code-for-authentication-across-web-and-mobile-applications-in-nodejs)
-- [DeFi: Decentralized Finance - Explain like I am 5](https://blog.idrisolubisi.com/defi-decentralized-finance-explain-like-i-am-5)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
