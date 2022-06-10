@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <B>IDRIS</B></h3>
+<h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"> I'm <B>IDRIS</B></h3>
 <hr>
 
 Idris Olubisi is Software Engineer and a technical writer with immense knowledge and a passionate speaker about open source, blockchain, software products, and serverless technologies.
