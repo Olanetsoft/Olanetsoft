@@ -23,11 +23,11 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 
 ### My Blog
 <!-- BLOG:START -->
+- [How I Landed a Developer Relations Role in Web3 after 6 months](https://blog.idrisolubisi.com/how-i-landed-a-developer-relations-role-in-web3-after-6-months)
 - [Token Series: Build, Deploy &amp; List ERC721 token on OpenSea](https://blog.idrisolubisi.com/build-deploy-and-list-erc721-token-on-opensea)
 - [How to Build an Ethereum Gas Price Tracker using EIP-1559 Standard](https://blog.idrisolubisi.com/how-to-build-an-ethereum-gas-price-tracker-using-eip-1559-standard)
 - [Token Series: Build and Deploy ERC20 Token in 3 Steps](https://blog.idrisolubisi.com/build-and-deploy-erc20-token)
 - [Build a Decentralized News Feed using Reactjs, TailwindCSS, Etherjs, IPFS &amp; Solidity](https://blog.idrisolubisi.com/build-a-decentralized-news-feed-using-reactjs-tailwindcss-etherjs-ipfs-and-solidity)
-- [How to Fix unknown account #0 &lpar;operation=&quot;getAddress&quot;, code=UNSUPPORTED_OPERATION, version=providers/5.6.4&rpar;](https://blog.idrisolubisi.com/how-to-fix-unknown-account-0-operationgetaddress-codeunsupportedoperation-versionproviders564)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
