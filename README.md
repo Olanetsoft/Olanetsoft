@@ -23,11 +23,11 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 
 ### My Blog
 <!-- BLOG:START -->
-- [Transitioning Into Web3 As a Frontend, Backend, or Fullstack Developer](https://blog.idrisolubisi.com/transitioning-into-web3-as-a-frontend-backend-or-fullstack-developer)
 - [Build a Decentralized Social Network with Reactjs, TailwindCSS &amp; Lens Protocol](https://blog.idrisolubisi.com/build-a-decentralized-social-network-with-reactjs-tailwindcss-lens-protocol)
 - [How I Landed a Developer Relations Role in Web3 after 6 months](https://blog.idrisolubisi.com/how-i-landed-a-developer-relations-role-in-web3-after-6-months)
 - [Token Series: Build, Deploy &amp; List ERC721 token on OpenSea](https://blog.idrisolubisi.com/build-deploy-and-list-erc721-token-on-opensea)
 - [How to Build an Ethereum Gas Price Tracker using EIP-1559 Standard](https://blog.idrisolubisi.com/how-to-build-an-ethereum-gas-price-tracker-using-eip-1559-standard)
+- [Token Series: Build and Deploy ERC20 Token in 3 Steps](https://blog.idrisolubisi.com/build-and-deploy-erc20-token)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
