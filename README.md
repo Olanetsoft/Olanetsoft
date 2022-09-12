@@ -41,11 +41,11 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 
 ### Dev Community
 <!-- DEVTO:START -->
+- [Transitioning Into Web3 As a Frontend, Backend, or Fullstack Developer](https://dev.to/olanetsoft/transitioning-into-web3-as-a-frontend-backend-or-fullstack-developer-1kb0)
 - [How I Landed a Developer Relations Role in Web3 after 6 months](https://dev.to/olanetsoft/how-i-landed-a-developer-relations-role-in-web3-after-6-months-3555)
 - [Build and Deploy ERC20 Token in 3 Steps](https://dev.to/olanetsoft/build-and-deploy-erc20-token-in-3-steps-1a8n)
 - [Learn and Discover DAOs with Boardroom](https://dev.to/olanetsoft/learn-and-discover-daos-with-boardroom-4hp3)
 - [Build a Decentralized News Feed using Reactjs, TailwindCSS, Etherjs, IPFS & Solidity](https://dev.to/olanetsoft/build-a-decentralized-news-feed-using-reactjs-tailwindcss-etherjs-ipfs-solidity-13jl)
-- [100+ Web 3.0 Common Terminology](https://dev.to/olanetsoft/100-web-30-common-terminology-2foa)
 <!-- DEVTO:END -->
 
 <!-- - [10+ Awesome Youtube Channels to Learn UI/UX](https://blog.idrisolubisi.com/10-awesome-youtube-channels-to-learn-uiux)
