@@ -23,11 +23,11 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 
 ### My Blog
 <!-- BLOG:START -->
-- [How to Build and Deploy a USDC-based Smart Contract](https://blog.idrisolubisi.com/how-to-build-and-deploy-a-usdc-based-smart-contract)
 - [Getting Started on StarkNet with Infura](https://blog.idrisolubisi.com/getting-started-on-starknet-with-infura)
 - [Hacktobefest - Active Open Source Projects Accepting Contributions](https://blog.idrisolubisi.com/hacktobefest-active-open-source-projects-accepting-contributions)
 - [Build and Deploy Smart Contract on the Avalanche Network](https://blog.idrisolubisi.com/build-and-deploy-smart-contract-on-the-avalanche-network)
 - [How to Upload, Crop, &amp; Resize Images in the Browser in Nextjs](https://blog.idrisolubisi.com/how-to-upload-crop-resize-images-in-the-browser-in-nextjs)
+- [Transitioning Into Web3 As a Frontend, Backend, or Fullstack Developer](https://blog.idrisolubisi.com/transitioning-into-web3-as-a-frontend-backend-or-fullstack-developer)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
