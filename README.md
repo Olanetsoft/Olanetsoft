@@ -41,11 +41,11 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 
 ### Dev Community
 <!-- DEVTO:START -->
+- [Understanding the Role of Developer Relations](https://dev.to/olanetsoft/understanding-the-role-of-developer-relations-32i8)
 - [Build a Timeline Tracker with Cloudinary, Xata, and Next.js](https://dev.to/hackmamba/build-a-timeline-tracker-with-cloudinary-xata-and-nextjs-3p4k)
 - [Super Useful Metrics to Track Your Server Expenses](https://dev.to/hackmamba/super-useful-metrics-to-track-your-server-expenses-4dp9)
 - [Getting Started on StarkNet with Infura](https://dev.to/olanetsoft/getting-started-on-starknet-with-infura-4le8)
 - [Transitioning Into Web3 As a Frontend, Backend, or Fullstack Developer](https://dev.to/olanetsoft/transitioning-into-web3-as-a-frontend-backend-or-fullstack-developer-1kb0)
-- [How I Landed a Developer Relations Role in Web3 after 6 months](https://dev.to/olanetsoft/how-i-landed-a-developer-relations-role-in-web3-after-6-months-3555)
 <!-- DEVTO:END -->
 
 <!-- - [10+ Awesome Youtube Channels to Learn UI/UX](https://blog.idrisolubisi.com/10-awesome-youtube-channels-to-learn-uiux)
