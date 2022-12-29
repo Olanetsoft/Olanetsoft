@@ -23,11 +23,11 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 
 ### My Blog
 <!-- BLOG:START -->
+- [Dev Retro 2022: The Highs and Lows of a Year to Remember](https://blog.idrisolubisi.com/dev-retro-2022-the-highs-and-lows-of-a-year-to-remember)
 - [Understanding the Role of Developer Relations](https://blog.idrisolubisi.com/understanding-the-role-of-developer-relations)
 - [How to Fix xcrun: error: invalid active developer path &lpar;/Library/Developer/CommandLineTools&rpar;, missing xcrun at: /Library/Developer/CommandLineTools/us](https://blog.idrisolubisi.com/how-to-fix-xcrun-error-invalid-active-developer-path-librarydevelopercommandlinetools-missing-xcrun-at-librarydevelopercommandlinetoolsus)
 - [How to Build and Deploy a USDC-based Smart Contract](https://blog.idrisolubisi.com/how-to-build-and-deploy-a-usdc-based-smart-contract)
 - [Getting Started on StarkNet with Infura](https://blog.idrisolubisi.com/getting-started-on-starknet-with-infura)
-- [Hacktobefest - Active Open Source Projects Accepting Contributions](https://blog.idrisolubisi.com/hacktobefest-active-open-source-projects-accepting-contributions)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
