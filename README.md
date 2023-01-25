@@ -23,11 +23,11 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 
 ### My Blog
 <!-- BLOG:START -->
+- [The Ultimate Guide to Debugging Smart Contracts: Tips and Tools for Web3 Developers](https://blog.idrisolubisi.com/the-ultimate-guide-to-debugging-smart-contracts-tips-and-tools-for-web3-developers)
 - [Easily Create An NFT App Using The New Infura NFT SDK TypeScript](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript)
 - [Get Started with DAOs: A Step-by-Step Guide Using Boardroom](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom)
 - [Dev Retro 2022: The Highs and Lows of a Year to Remember](https://blog.idrisolubisi.com/dev-retro-2022-the-highs-and-lows-of-a-year-to-remember)
 - [Understanding the Role of Developer Relations](https://blog.idrisolubisi.com/understanding-the-role-of-developer-relations)
-- [How to Fix xcrun: error: invalid active developer path &lpar;/Library/Developer/CommandLineTools&rpar;, missing xcrun at: /Library/Developer/CommandLineTools/us](https://blog.idrisolubisi.com/how-to-fix-xcrun-error-invalid-active-developer-path-librarydevelopercommandlinetools-missing-xcrun-at-librarydevelopercommandlinetoolsus)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
