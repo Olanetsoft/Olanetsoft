@@ -32,11 +32,11 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 
 ### FreeCodeCamp
 <!-- FCC:START -->
+- [Decentralized Identity – Build a Profile with Next.js, Ethereum &amp; Ceramic Network](https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/)
 - [Next.js Image Tutorial – How to Upload, Crop, and Resize Images in the Browser in Next](https://www.freecodecamp.org/news/how-to-upload-crop-resize-images-in-the-browser-in-nextjs/)
 - [How to Build a Full Stack Application With Supabase, React, and Tailwind CSS in Nextjs](https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-with-tailwind-css-and-supabase-in-nextjs/)
 - [What is Ansible? A Tool to Automate Parts of Your Job](https://www.freecodecamp.org/news/what-is-ansible/)
 - [How to Authenticate Users and Implement CORS in Node.js Apps](https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/)
-- [API Cheat Sheet – What is an API, How it Works, and How to Choose the Right API Testing Tools](https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it/)
 <!-- FCC:END -->
 
 ### Dev Community
