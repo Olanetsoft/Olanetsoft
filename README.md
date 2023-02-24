@@ -23,11 +23,11 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 
 ### My Blog
 <!-- BLOG:START -->
+- [How to Fix React Hydration Error in Nextjs - Practical Guide](https://blog.idrisolubisi.com/how-to-fix-react-hydration-error-in-nextjs-practical-guide)
 - [Revolutionize Your Writing Process: Say Goodbye to Writers Block with the New Article Idea Generator](https://blog.idrisolubisi.com/revolutionize-your-writing-process-say-goodbye-to-writers-block-with-the-new-article-idea-generator)
 - [Master the Cosmos: A Beginner&#39;s Guide to Building and Deploying Smart Contracts](https://blog.idrisolubisi.com/master-the-cosmos-a-beginners-guide-to-building-and-deploying-smart-contracts)
 - [The Ultimate Guide to Debugging Smart Contracts: Tips and Tools for Web3 Developers](https://blog.idrisolubisi.com/the-ultimate-guide-to-debugging-smart-contracts-tips-and-tools-for-web3-developers)
 - [Easily Create An NFT App Using The New Infura NFT SDK TypeScript](https://blog.idrisolubisi.com/easily-create-an-nft-app-using-the-new-infura-nft-sdk-typescript)
-- [Get Started with DAOs: A Step-by-Step Guide Using Boardroom](https://blog.idrisolubisi.com/get-started-with-daos-a-step-by-step-guide-using-boardroom)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
