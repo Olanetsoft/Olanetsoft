@@ -10,6 +10,8 @@ He is also skilled in aggregating feedback from the developer community, priorit
 
 Aside from slapping the keyboard till something magical emerge, he writes a lot of articles [Here](https://blog.idrisolubisi.com "My Blog") where he shares his knowledge and sometimes contributes to open source.
 
+---
+
 - 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me about Web Development, Technical Writing, Web3, Blockchain, PWA, NodeJs, Serverless Technologies, Open Source etc.
 - 📫 How to reach me:
