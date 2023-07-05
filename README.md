@@ -27,11 +27,11 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 
 ### My Blog
 <!-- BLOG:START -->
+- [Build a Full Stack Interchain dApp with Next.js, Solidity &amp; Axelar](https://blog.idrisolubisi.com/build-a-full-stack-interchain-dapp-with-nextjs-solidity-axelar)
 - [Create Better Content with These AI Tools](https://blog.idrisolubisi.com/create-better-content-with-these-ai-tools-in-2023)
 - [How to Fix React Hydration Error in Nextjs - Practical Guide](https://blog.idrisolubisi.com/how-to-fix-react-hydration-error-in-nextjs-practical-guide)
 - [Say Goodbye to Writers Block with the New Article Idea Generator](https://blog.idrisolubisi.com/say-goodbye-to-writers-block-with-the-new-article-idea-generator)
 - [Master the Cosmos: A Beginner&#39;s Guide to Building and Deploying Smart Contracts](https://blog.idrisolubisi.com/master-the-cosmos-a-beginners-guide-to-building-and-deploying-smart-contracts)
-- [The Ultimate Guide to Debugging Smart Contracts: Tips and Tools for Web3 Developers](https://blog.idrisolubisi.com/the-ultimate-guide-to-debugging-smart-contracts-tips-and-tools-for-web3-developers)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
