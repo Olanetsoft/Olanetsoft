@@ -27,11 +27,11 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 
 ### My Blog
 <!-- BLOG:START -->
+- [Solving the TypeError: no matching function Error in Hardhat](https://blog.idrisolubisi.com/typeerror-no-matching-function-argumentkey-valueaddress-codeinvalidargument-version662)
 - [Build a Full Stack Interchain dApp with Next.js, Solidity &amp; Axelar](https://blog.idrisolubisi.com/build-a-full-stack-interchain-dapp-with-nextjs-solidity-axelar)
 - [Create Better Content with These AI Tools](https://blog.idrisolubisi.com/create-better-content-with-these-ai-tools-in-2023)
 - [How to Fix React Hydration Error in Nextjs - Practical Guide](https://blog.idrisolubisi.com/how-to-fix-react-hydration-error-in-nextjs-practical-guide)
 - [Say Goodbye to Writers Block with the New Article Idea Generator](https://blog.idrisolubisi.com/say-goodbye-to-writers-block-with-the-new-article-idea-generator)
-- [Master the Cosmos: A Beginner&#39;s Guide to Building and Deploying Smart Contracts](https://blog.idrisolubisi.com/master-the-cosmos-a-beginners-guide-to-building-and-deploying-smart-contracts)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
