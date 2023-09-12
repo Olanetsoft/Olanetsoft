@@ -45,11 +45,11 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 
 ### Dev Community
 <!-- DEVTO:START -->
+- [How to Set up Telesign for SMS in Appwrite](https://dev.to/hackmamba/how-to-set-up-telesign-for-sms-in-appwrite-319g)
 - [Build a Full Stack Interchain dApp with Next.js, Solidity & Axelar](https://dev.to/olanetsoft/build-a-full-stack-interchain-dapp-with-nextjs-solidity-axelar-8j6)
 - [Designing a User-Friendly Course Catalog With Pink Design and Nuxt](https://dev.to/hackmamba/designing-a-user-friendly-course-catalog-with-pink-design-and-nuxt-5bdg)
 - [Create Better Content with These AI Tools](https://dev.to/olanetsoft/create-better-content-with-these-ai-tools-305m)
 - [How to Fix React Hydration Error in Nextjs - Practical Guide](https://dev.to/olanetsoft/how-to-fix-react-hydration-error-in-nextjs-practical-guide-cjh)
-- [Say Goodbye to Writers Block with the New Article Idea Generator](https://dev.to/olanetsoft/say-goodbye-to-writers-block-with-the-new-article-idea-generator-56d2)
 <!-- DEVTO:END -->
 
 <!-- - [10+ Awesome Youtube Channels to Learn UI/UX](https://blog.idrisolubisi.com/10-awesome-youtube-channels-to-learn-uiux)
