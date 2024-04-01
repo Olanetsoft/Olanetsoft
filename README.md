@@ -16,7 +16,7 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 - 💬 Ask me about Web Development, Technical Writing, Web3, Blockchain, PWA, NodeJs, Serverless Technologies, Open Source etc.
 - 📫 How to reach me:
   - Social Media
-    - [Twitter](https://twitter.com/olanetsoft "My Twitter") | [LinkedIn](https://www.linkedin.com/in/olubisi-idris-ayinde-05727b17a/ "My LinkedIn") | [Portfolio](https://idrisolubisi.com "My portfolio") | [Showwwcase](https://profile.idrisolubisi.com) | [Timeline](https://timeline.idrisolubisi.com) | [LinkTree](https://linktr.ee/olanetsoft)
+    - [Twitter](https://twitter.com/_olanetsoft "Olanetsoft Twitter") | [LinkedIn](https://www.linkedin.com/in/olubisi-idris-ayinde-05727b17a/ "My LinkedIn") | [Portfolio](https://idrisolubisi.com "My portfolio") | [Showwwcase](https://profile.idrisolubisi.com) | [Timeline](https://timeline.idrisolubisi.com) | [LinkTree](https://linktr.ee/olanetsoft)
   - Technical Writing Profiles: 
     - [Blog](https://blog.idrisolubisi.com "Blog") | [FreeCodeCamp](https://www.freecodecamp.org/news/author/idris/ "FreeCodeCamp") | [Section Engineering](https://www.section.io/engineering-education/authors/idris-olubisi/) | [Dev.to](https://dev.to/olanetsoft "Dev.to") | [Medium](https://olanetsoft.medium.com/ "Medium") | [TealFeed](https://tealfeed.com/olanetsoft) | [DevDojo](https://devdojo.com/olanetsoft) | [HackMamba](https://docs.google.com/document/d/1o1O6eSSxdjWkQOqiQitUilI0xyNkNgivNQoJJXabsqI/edit?usp=sharing) | [AppSmith](https://www.appsmith.com/blog-authors/olubisi-idris-ayinde)
 
