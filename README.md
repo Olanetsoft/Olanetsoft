@@ -4,7 +4,7 @@ Idris Olubisi is a skilled software engineer and technical writer with expertise
 
 With over a million views across various reputable publications, including Media Jams(Cloudinary), AppSmith, ImageKit, Aviyel, Hashnode Web3, Alchemy, Infura and Moralis, Idris is a sought-after developer relations engineer. He builds relationships with key stakeholders, including developers, engineers, and product managers, and leads strategic initiatives with influential teams and individuals.
 
-Idris engages with the developer community through meetups, boot camps, hackathons, lectures, spaces and training. He founded [Web3 Afrika](https://twitter.com/web3afrika) (a Developer DAO spin-off), a community that onboards, supports, and educates web3 builders and the Backend Lead at SheCodeAfrica, a coding community with over 20k+ active women.
+Idris engages with the developer community through meetups, boot camps, hackathons, lectures, spaces and training. He founded [Web3 Afrika](https://twitter.com/web3afrika) (a Developer DAO spin-off), a community that onboards, supports, and educates web3 builders and the Backend Lead at SheCodeAfrica, a coding community with over 40k+ active women.
 
 He is also skilled in aggregating feedback from the developer community, prioritizing feature requests, and aligning internal organizations with developer partners' needs. Idris has given several talks, workshops, and live coding demos, both virtually and onsite, inspiring and educating others as a speaker.
 
