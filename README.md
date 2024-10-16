@@ -45,11 +45,11 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 
 ### Dev Community
 <!-- DEVTO:START -->
+- [Multichain Real-World Asset (RWA) Lending with Axelar GMP](https://dev.to/olanetsoft/multichain-real-world-asset-rwa-lending-with-axelar-gmp-4en)
 - [Cross-Chain Governance with OpenZeppelin Governor and Axelar](https://dev.to/olanetsoft/cross-chain-governance-with-openzeppelin-governor-and-axelar-53b8)
 - [Merkle Proofs: A Simple Guide](https://dev.to/olanetsoft/merkle-proofs-a-simple-guide-3l02)
 - [Celebrating One Year Working on Axelar: Building the Interoperability Future](https://dev.to/olanetsoft/celebrating-one-year-working-on-axelar-building-the-interoperability-future-42ki)
 - [How to Use Cloud Functions to Automate GitHub Moderation](https://dev.to/hackmamba/how-to-use-cloud-functions-to-automate-github-moderation-3g5p)
-- [How to Set up Telesign for SMS in Appwrite](https://dev.to/hackmamba/how-to-set-up-telesign-for-sms-in-appwrite-319g)
 <!-- DEVTO:END -->
 
 <!-- - [10+ Awesome Youtube Channels to Learn UI/UX](https://blog.idrisolubisi.com/10-awesome-youtube-channels-to-learn-uiux)
