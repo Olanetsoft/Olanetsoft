@@ -27,11 +27,11 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 
 ### My Blog
 <!-- BLOG:START -->
+- [How to Set Up Cross-Chain Messaging Between EVM and Cosmos](https://blog.idrisolubisi.com/how-to-set-up-cross-chain-messaging-between-evm-and-cosmos)
 - [How Merkle Proofs Work](https://blog.idrisolubisi.com/how-merkle-proofs-work)
 - [Celebrating One Year Working on Axelar: Building the Interoperability Future](https://blog.idrisolubisi.com/celebrating-one-year-working-on-axelar-building-the-interoperability-future)
 - [How to Build a Cross-chain Airdrop Dapp With Solidity, NextJs, and Axelar](https://blog.idrisolubisi.com/how-to-build-a-cross-chain-airdrop-dapp-with-solidity-nextjs-and-axelar)
 - [How to Create an Interchain Token with Axelar in 4 Steps](https://blog.idrisolubisi.com/how-to-create-an-interchain-token-with-axelar-in-4-steps)
-- [Solving the TypeError: no matching function Error in Hardhat](https://blog.idrisolubisi.com/typeerror-no-matching-function-argumentkey-valueaddress-codeinvalidargument-version662)
 <!-- BLOG:END -->
 
 ### FreeCodeCamp
