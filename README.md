@@ -51,5 +51,3 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 - [Celebrating One Year Working on Axelar: Building the Interoperability Future](https://dev.to/olanetsoft/celebrating-one-year-working-on-axelar-building-the-interoperability-future-42ki)
 - [How to Use Cloud Functions to Automate GitHub Moderation](https://dev.to/hackmamba/how-to-use-cloud-functions-to-automate-github-moderation-3g5p)
 <!-- DEVTO:END -->
-
-<a href="https://www.buymeacoffee.com/olanetsoft"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=olanetsoft&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
