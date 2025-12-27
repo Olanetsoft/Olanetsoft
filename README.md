@@ -52,35 +52,4 @@ Aside from slapping the keyboard till something magical emerge, he writes a lot 
 - [How to Use Cloud Functions to Automate GitHub Moderation](https://dev.to/hackmamba/how-to-use-cloud-functions-to-automate-github-moderation-3g5p)
 <!-- DEVTO:END -->
 
-<!-- - [10+ Awesome Youtube Channels to Learn UI/UX](https://blog.idrisolubisi.com/10-awesome-youtube-channels-to-learn-uiux)
-- [How to Create Beautiful Gradients with JavaScript](https://blog.idrisolubisi.com/how-to-create-beautiful-gradients-with-javascript)
-- [Awesome GitHub Repositories to Learn CSS 👨‍💻](https://blog.idrisolubisi.com/awesome-github-repositories-to-learn-css)
-- [How to Build an Authentication API with JWT Token in Node. js](https://www.section.io/engineering-education/how-to-build-authentication-api-with-jwt-token-in-nodejs/)
-- [Get Paid to Write for These 45+ Websites](https://blog.idrisolubisi.com/get-paid-to-write-for-these-45-websites)
-- [How to Authenticate Users and Implement CORS in Node.js Apps 🔎](https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/)
-- [15 Best Free Public Apis to Use in Your Next Project 🚀](https://blog.idrisolubisi.com/15-best-free-public-apis-to-use-in-your-next-project)
-- [How to Upload Audio and Video to Cloudinary in Nodejs 🚀](https://blog.idrisolubisi.com/how-to-upload-audio-and-video-to-cloudinary-in-nodejs)
-- [How to Build a Clock with JavaScript and SVG ⚡️](https://www.section.io/engineering-education/how-to-build-a-clock-with-javascript-and-svg/) -->
-  
-## &#x1f4c8; GitHub Stats
-
-![Olanetsoft's GitHub stats](https://github-readme-stats.vercel.app/api?username=olanetsoft&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olanetsoft&layout=compact&theme=tokyonight)](https://github.com/Olanetsoft)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=olanetsoft)
-
 <a href="https://www.buymeacoffee.com/olanetsoft"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=olanetsoft&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
-<!--
-**Olanetsoft/Olanetsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
